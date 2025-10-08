@@ -9,6 +9,13 @@ public class Student {
 		this.sid=100;
 		this.sname="IFET student";
 	}
+	//PARAMETRIZED CONSTRUCTOR
+	public Student (int sid,String sname)
+	{
+		this.sid=sid;
+		this.sname="IFET student";
+		
+	}
 	
 	public int getSid() {
 		return sid;
