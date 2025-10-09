@@ -1,6 +1,6 @@
 package com.tnsif.daysix.usingfinal;
 
-public class FinalClassDemo {
+public class FinalClass {
 	final class FinalClass {
 		void show() {
 			System.out.println("Final class cannot be inherited");
